@@ -1,0 +1,44 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333333;
+    background-color: #ffffff;
+}
+h2 {
+    color: #1d4ed8;
+}
+header {
+    margin-bottom: 2px;
+}
+footer {
+    color: #666666;
+    text-align: center;
+}
+#cabecalho-principal {
+    background-color: #384c81;
+    color: #ffffff;
+    text-align: center;
+    padding: 4px;
+}
+.card-noticia {
+    border: 1px solid #cccccc;
+    padding: 4px;
+    margin-bottom: 6px;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+.botao {
+    border: none;
+    background-color: #2563eb;
+    color: #ffffff;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.alerta {
+    font-weight: 700;
+    color: #dc2626;
+}
+.destaque {
+    border-color: #2563eb;
+    background-color: #dbeafe;
+}
